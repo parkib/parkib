@@ -10,6 +10,8 @@ Some Projects That I've been working on: 💫
 
 _____________________
 
+![image](https://github.com/parkib/parkib/assets/140993655/826a85ae-484e-40f2-addb-2a34e0b926a6)
+
 <!--
 **parkib/parkib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
